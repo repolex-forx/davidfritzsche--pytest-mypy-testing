@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/davidfritzsche/pytest-mypy-testing/commit/0e300ba48cd04fc7f3c215590c5af4033d308be4",
       "git:hexsha": "0e300ba48cd04fc7f3c215590c5af4033d308be4",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.2.0"
     },
     {
