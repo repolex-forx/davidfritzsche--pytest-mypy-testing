@@ -1,0 +1,11 @@
+{
+  "org": "davidfritzsche",
+  "repo": "pytest-mypy-testing",
+  "versions": [
+    {
+      "commit": "0e300ba48cd04fc7f3c215590c5af4033d308be4",
+      "tag": "v0.2.0",
+      "parsed_at": "2026-11-06T03:01:44.167330+00:00"
+    }
+  ]
+}
